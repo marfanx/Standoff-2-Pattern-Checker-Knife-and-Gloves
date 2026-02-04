@@ -1,9 +1,9 @@
 const cacheName = "Marfanx-SO2PC-0.1";
 const contentToCache = [
     "Build/Builde.loader.js",
-    "Build/Builde.framework.js.br",
-    "Build/Builde.data.br",
-    "Build/Builde.wasm.br",
+    "Build/Builde.framework.js.unityweb",
+    "Build/Builde.data.unityweb",
+    "Build/Builde.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
